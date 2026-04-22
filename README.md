@@ -1,2 +1,0 @@
-# wedding-web
-MD wedding 
